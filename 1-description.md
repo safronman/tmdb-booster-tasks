@@ -299,7 +299,7 @@ https://placehold.co/ или сам добавь изображение по у�
 ### 🍿 11. Обработка ошибок
 
 Реализуй обработку ошибок в приложении. Обработку ошибок можно делать по аналогии, как в
-[MusicFun](https://samurai.it-incubator.io/ru/react-middle-senior/rtk-query-musicfun/3-loaders-error-handling-optimistic-update?ref=64BA47#-11-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA)
+[MusicFun](https://it-incubator.io/react/ru/react-middle-senior-tutorials/rtk-query-musicfun-free-course/3-loaders-error-handling-optimistic-update?s=64BA47#-11-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA)
 
 ❗ Для вывода ошибок можешь использовать [React Toastify](https://www.npmjs.com/package/react-toastify)
 или, если ты используешь MUI, [React Snackbar](https://mui.com/material-ui/react-snackbar/#use-with-alerts)
@@ -324,7 +324,7 @@ https://placehold.co/ или сам добавь изображение по у�
 при поиске и т.д. ты должен видеть `Linear Progress`
 
 ❗ Для реализации `Linear Progress` можешь взять готовый компонент из урока по `MusicFun`
-[Linear Progress](https://samurai.it-incubator.io/ru/react-middle-senior/rtk-query-musicfun/3-loaders-error-handling-optimistic-update?ref=64BA47#%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-loader)
+[Linear Progress](https://it-incubator.io/react/ru/react-middle-senior-tutorials/rtk-query-musicfun-free-course/3-loaders-error-handling-optimistic-update?s=64BA47#-10-loaders)
 или, если ты используешь MUI, [React Progress](https://mui.com/material-ui/react-progress/#linear)
 
 #### 12.2. Skeletons
